@@ -1,5 +1,5 @@
 # test
 test rep
-$$
-\frac{1}{n}
-$$
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
